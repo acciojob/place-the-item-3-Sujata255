@@ -1,10 +1,9 @@
 
-.holder{
-	display:flex;
-	flex-wrap:wrap;
-	justify-content:space-evenly;
+.holder {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
 }
-.item{
-	width:100px;
-	
+.item {
+  width: 100px;
 }
