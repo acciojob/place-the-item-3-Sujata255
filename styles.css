@@ -4,3 +4,7 @@
 	flex-wrap:wrap;
 	justify-content:space-around;
 }
+.item{
+	width:100px;
+	align-items:center;
+}
